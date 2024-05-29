@@ -1,0 +1,15 @@
+EXPORTS
+    DllRegisterServer PRIVATE
+    DllUnregisterServer PRIVATE
+    DllInstall PRIVATE
+    test=Test
+    Test=Test
+    tEst=Test
+    teSt=Test
+    tesT=Test
+    TEst=Test
+    TeSt=Test
+    TesT=Test
+    TESt=Test
+    TEsT=Test
+    TEST=Test
